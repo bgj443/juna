@@ -1,0 +1,8 @@
+{
+  "name": "Juna",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "f76df0ea"
+}
